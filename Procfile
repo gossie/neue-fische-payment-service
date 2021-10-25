@@ -1,1 +1,1 @@
-web: ./main
+web: bin/neue-fische-payment-service
